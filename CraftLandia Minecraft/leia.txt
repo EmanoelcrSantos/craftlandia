@@ -1,0 +1,14 @@
+--== CraftLandia Launcher Universal ==--
+
+Site: 
+http://www.craftlandia.com.br
+
+Aviso:
+Esse launcher é 'portável' - Isso é: Não altera em nada o seu computador ou sua instalação original do Minecraft.
+Caso queira desinstalar esse launcher basta apagar a pasta e pronto. Simples, seguro e confiável.
+
+Bom divertimento :)
+
+
+Atenciosamente,
+Equipe CraftLandia
